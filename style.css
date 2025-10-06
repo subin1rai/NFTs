@@ -1,27 +1,27 @@
 @font-face {
   font-family: glory;
-  src: url(Gilroy-Regular.ttf);
+  src: url(./fonts/Gilroy-Regular.ttf);
 }
 @font-face {
   font-family: glory2;
-  src: url(Gilroy-Thin.ttf);
+  src: url(./fonts/Gilroy-Thin.ttf);
 }
 @font-face {
   font-family: lufga;
-  src: url(LufgaMedium.ttf);
+  src: url(./fonts/LufgaMedium.ttf);
 }
 @font-face {
   font-family: lufga-thin;
-  src: url(LufgaThin.ttf);
+  src: url(./fonts/LufgaThin.ttf);
 }
 @font-face {
   font-family: lufga-main;
-  src: url(LufgaSemiBold.ttf);
+  src: url(./fonts/LufgaSemiBold.ttf);
 }
 
 @font-face {
   font-family: lufga-regular;
-  src: url(LufgaLight.ttf);
+  src: url(./fonts/LufgaLight.ttf);
 }
 
 * {
